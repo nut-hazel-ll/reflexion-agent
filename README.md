@@ -159,6 +159,7 @@ event_loop
 - OpenAI API
 - Tavily Search API
 - Pydantic
+- LangSmith
 
 ---
 
